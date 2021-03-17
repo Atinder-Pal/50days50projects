@@ -45,6 +45,7 @@ h1 {
 	left: 5vw;
 	margin: 0;
 	opacity: 0; /*to make h3 invisible whe not active*/
+	transition: opacity 0.4s ease-in 0.2s;
 }
 
 .panel:last-of-type {
