@@ -46,6 +46,7 @@ h1 {
 	margin: 0;
 	opacity: 0; /*to make h3 invisible whe not active*/
 	transition: opacity 0.4s ease-in 0.2s;
+	background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6));
 }
 
 .panel:last-of-type {
